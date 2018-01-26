@@ -22,6 +22,9 @@ Biz size anlatmak için Plaka Tanıma üzerinden devam edelim. 2.kodu yazıp ent
 2.	“C” ile onayladıktan sonra resim geçişini “N” tuşu ile sağlamaktayız. Bazen belli olmayan fotoğraflar veya seçilemeyen resimler olduğunda “C” tuşuna basmadan “N” ile geçebiliriz.
 3.	Yanlış seçtiğimizde ise “ESC” tuşuna basabiliriz.
 Tüm resimlere bu işlemi yaptıktan sonra ekran kendiliğinden kapanacaktır dönüp annotation.txt’mize bakabiliriz. İlk açtığınızda resim adınızın önünde resmin dosya yolu yazılı olacaktır. Bu dosya yolunu silmemiz gerekiyor Düzenden değiştir yolu ile toplu olarak Dosya yollarını silebilirsiniz.
+
+![ornek](https://user-images.githubusercontent.com/34711408/35438703-a12f804c-02a8-11e8-9f49-4af338637b23.png)
+
       
 Annotation.exe’yi bitirdikten sonra sıra CreateSamples.exe’ye geliyor.
 CreateSamples için gerekli cmd kodu :
