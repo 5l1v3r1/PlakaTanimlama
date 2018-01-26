@@ -23,7 +23,8 @@ Biz size anlatmak için Plaka Tanıma üzerinden devam edelim. 2.kodu yazıp ent
 3.	Yanlış seçtiğimizde ise “ESC” tuşuna basabiliriz.
 Tüm resimlere bu işlemi yaptıktan sonra ekran kendiliğinden kapanacaktır dönüp annotation.txt’mize bakabiliriz. İlk açtığınızda resim adınızın önünde resmin dosya yolu yazılı olacaktır. Bu dosya yolunu silmemiz gerekiyor Düzenden değiştir yolu ile toplu olarak Dosya yollarını silebilirsiniz.
 
-![ornek](https://user-images.githubusercontent.com/34711408/35438703-a12f804c-02a8-11e8-9f49-4af338637b23.png)
+![ornek3](https://user-images.githubusercontent.com/34711408/35438732-c09845ea-02a8-11e8-98f7-e9df44ceda35.png)
+
 
       
 Annotation.exe’yi bitirdikten sonra sıra CreateSamples.exe’ye geliyor.
