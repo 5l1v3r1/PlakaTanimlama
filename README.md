@@ -1,4 +1,4 @@
-   #                                             ARAÇ PLAKA TANIMA SİSTEMİ
+                                                    # ARAÇ PLAKA TANIMA SİSTEMİ
 Projemizde verileri tanıtmak için bir xml dosyası oluşturmak zorundayız. Bu xml dosyası 3 exe den meydana gelmektedir. 
 1.Annotation.exe 
 2.createsamples.exe 
