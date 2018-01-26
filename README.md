@@ -12,7 +12,9 @@ Bilgisayarımızdan cmd komutuna girerek şu kodları sırası ile yazıyoruz.
 2.	opencv_annotation.exe -images (resimlerinizin bulunduğu dosya yolu) 
 -annotations oluşturulacak olan textin nereye kayıt edileceği aynı klasör içerisinde oluşturulabilir.)
 opencv_annotation.exe -images C:\Users\User\Desktop\car -annotations C:\Users\User\Desktop\car\annotation.txt
-       ![ornek1](https://user-images.githubusercontent.com/34711408/35438748-d15b0a0c-02a8-11e8-97dd-d8c44410c49c.png)
+
+![ornek1](https://user-images.githubusercontent.com/34711408/35438748-d15b0a0c-02a8-11e8-97dd-d8c44410c49c.png)
+
 Biz size anlatmak için Plaka Tanıma üzerinden devam edelim. 2.kodu yazıp entera bastığımız anda karşımızda dosyamızdaki bir resim açılmaktadır. Ne hakkında proje yapıyorsak onu mouseumuz ile seçiyoruz biz burada bize yakın olan plakaları seçmekteyiz.
 
 
