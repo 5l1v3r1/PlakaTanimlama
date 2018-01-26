@@ -17,7 +17,7 @@ Biz size anlatmak için Plaka Tanıma üzerinden devam edelim. 2.kodu yazıp ent
 
 
 
-##ÖNEMLİ
+## ÖNEMLİ
 1.	Mouse ile seçmeyi tamamladığımızda “C” tuşuna basarak onaylayabilirsiniz. C tuşuna basıldığı anda yukarıdaki annotation.txt dosyamıza seçtiğimiz yerlerin koordinantları gelmektedir.
 2.	“C” ile onayladıktan sonra resim geçişini “N” tuşu ile sağlamaktayız. Bazen belli olmayan fotoğraflar veya seçilemeyen resimler olduğunda “C” tuşuna basmadan “N” ile geçebiliriz.
 3.	Yanlış seçtiğimizde ise “ESC” tuşuna basabiliriz.
